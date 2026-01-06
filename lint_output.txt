@@ -1,0 +1,10 @@
+
+> portfolionew@0.1.0 lint
+> eslint
+
+
+C:\Users\Asus\Downloads\vscode\portfolionew\src\components\CTA.tsx
+  7:12  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+Γ£û 1 problem (1 error, 0 warnings)
+
