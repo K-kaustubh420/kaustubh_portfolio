@@ -4,7 +4,7 @@ export const CTA = () => {
   return (
     <div id="contact" className="border-t border-zinc-900 pt-24 text-center">
       <h2 className="text-3xl font-bold text-white mb-6">
-        Let's build something real.
+        Let&apos;s build something real.
       </h2>
       <p className="text-zinc-400 mb-10 max-w-lg mx-auto leading-relaxed">
         Currently open to senior product-focused roles or high-impact technical systems.
