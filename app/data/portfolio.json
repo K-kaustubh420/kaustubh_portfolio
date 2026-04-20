@@ -1,0 +1,17 @@
+{
+  "brand": "© Alex Design & Strategy",
+  "firstName": "Alex",
+  "lastName": "Graham",
+  "roles": ["Web Designer", "Art Director"],
+  "socials": [
+    { "platform": "Twitter", "url": "https://twitter.com" },
+    { "platform": "Linkedin", "url": "https://linkedin.com" },
+    { "platform": "Instagram", "url": "https://instagram.com" }
+  ],
+  "navLinks": [
+    { "label": "About", "url": "#about" },
+    { "label": "Projects", "url": "#projects" },
+    { "label": "Contact", "url": "#contact" }
+  ],
+  "heroImage": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1000&auto=format&fit=crop"
+}
